@@ -11,6 +11,6 @@
 
     % git push
 
-**3. 웹브라우저로 GitHub 원격저장소(dit-pull-request)로 이동하여 Pull requests 요청 한다.** 
+**3. 웹브라우저로  자신의 GitHub 원격저장소(dit-pull-request)로 이동하여 Pull requests 요청을 한다.** 
  
-**4. 자신의 이름이 request-names.txt에 병합(merge) 되었는지 확인, 병합은 owner가 pull-request를 accept 한 후 확인 가능**
+**4. 자신의 이름이 request-names.txt에 병합(merge) 되었는지 확인, 병합은 owner가 pull-request를 accept(merge) 한 후 확인 가능**
