@@ -1,2 +1,1 @@
-Pull Request 하기
 김종현 교수 첫번째 Pull-Request
