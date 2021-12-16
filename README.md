@@ -1,4 +1,5 @@
-updat# Pull-Request 과제
+<H2>Pull-Request 과제</H2>
+
 **1. pull-request 원격저장소(GitHub)를 지역저장소(자신의 PC)에 clone 한다.**
 
     % git clone https://github.com/jhkim3217/dit-pull-request.git
